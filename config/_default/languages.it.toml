@@ -9,13 +9,13 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "Un bel tema per Hugo."
+  description = "che tema, Hugo."
 
 [params.author]
   name = "Blowfish"
   image = "img/blowfish_logo.png"
-  headline = "Un bel tema per Hugo."
-  bio = "Un bel tema per Hugo."
+  headline = " che tema, Hugo."
+  bio = "che tema, Hugo."
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },
