@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 2
-title = "Blowfish"
+title = "Brunori Sas Official Fansite"
 
 [params]
   displayName = "Italiano"
@@ -12,10 +12,10 @@ title = "Blowfish"
   description = "che tema, Hugo."
 
 [params.author]
-  name = "Blowfish"
+  name = "Brunori Sas Official Fansite"
   image = "img/blowfish_logo.png"
-  headline = " che tema, Hugo."
-  bio = "che tema, Hugo."
+  headline = " l'ironica community."
+  bio = "l'ironica community."
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },
