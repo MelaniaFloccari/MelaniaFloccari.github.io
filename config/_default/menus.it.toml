@@ -11,17 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Documenti"
+  name = "Chi siamo"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
+  name = "Santo Brunori da San Fili"
   pageRef = "docs/shortcodes"
   weight = 15
 
 [[main]]
-  name = "Esempi"
+  name = "News"
   weight = 20
 
 [[main]]
